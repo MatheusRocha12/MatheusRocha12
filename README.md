@@ -6,6 +6,16 @@ Aula 12/6/2023
 
 <b> Sesc Londrina Centro </b>
 
+<hr>
+<hr>
+
+Aula de informática - produção do README
+
+<hr>
+**GitHub**
+_GitHub_
+
+
 <!--
 **MatheusRocha12/MatheusRocha12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
